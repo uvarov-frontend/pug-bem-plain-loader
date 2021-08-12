@@ -1,5 +1,5 @@
 const pug = require('pug')
-const bem = require('pug-bem')
+const bem = require('@uvarov.frontend/pug-bem')
 const loaderUtils = require('loader-utils')
 
 module.exports = function (source) {
